@@ -1,0 +1,6 @@
+{
+  "name": "ABS-1 Resort Manager",
+  "description": "Multi-property channel manager and automated double-booking prevention engine for Booking.com, Agoda, MakeMyTrip, and Airbnb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
